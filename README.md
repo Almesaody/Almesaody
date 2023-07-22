@@ -16,8 +16,7 @@
 ---
 <br><br>
 
-I am a full stack developer. I have experience with PHP, CSS, JS, HTML, TS but I'm always willing to learn new things! I am 18 years old and I live in the Iraq. I have about 2 years of experience in creating websites and applications. I am always looking for new challenges! Do you want to have something coded? Contact me via below links! </a>
-<br><br>
+I am a full stack developer. I have experience with PHP, JS, HTML, TS, Python, C but I'm always willing to learn new things! I am 17 years old and I live in the Netherlands. I have about 5 years of experience in creating websites and applications. I am always looking for new challenges!
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
